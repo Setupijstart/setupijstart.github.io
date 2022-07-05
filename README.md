@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Setupijstart/setupijstart.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# ij.start.canon 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![ij.start.canon](Get-Started-Now-Button-PNG-Pic.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
-### Markdown
+The canon ij setup uses a wireless link to connect your printer to other devices. Canon printer enables the users to print from any devices such as smartphones, tablets, computers, laptops or other. **[ij.start.canon](https://setupijstart.github.io/)** is a portal that allows users to easily download and setup canon ij printer software.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Download the Canon Printer Drivers
 
-# Header 1
-## Header 2
-### Header 3
+_Find out the complete download steps at ij.start canon for Canon printer drivers from below process;_
 
-- Bulleted
-- List
+1. Set up the Canon printer and open a web browser on your computer device.
+2. Visit **[ij.start.canon](https://setupijstart.github.io/)** site and provide your Canon model number when asked.
+3. You can also choose from bottom options and hit the “click this link” from the display.
+4. Start downloading Canon drivers and software from the same ij.start.canon page.
+5. Now, double click on the software and install for your Canon product.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## How to install the Canon wireless printer on a Windows computer? 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+_Below steps will help you to setup ij.start canon wireless printer easily. Follow the steps:_
 
-### Jekyll Themes
+1. Install cartridges in your printer and turn it ON.
+2. Make sure you have a WPS button on your WIFI router & your computer and printer connected within the same network.
+3. Open **[ij.start.canon](https://setupijstart.github.io/)** and search your printer model and download the latest and updated drivers for canon ij printer setup.
+4. Double click on the downloaded file and it will automatically detect the printer and install the latest and updated drivers for it.
+5. Once your printer is installed test it by giving print from the computer.  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Setupijstart/setupijstart.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## How to Install ij.start.canon on mac?
+
+1. Open and start the printer and find the WPS button on the Wi-Fi router.
+2. From the [ij.start.canon](https://setupijstart.github.io/) on your **MAC**, download printer drivers for Mac.
+3. Open the file and run it.
+4. Press the **WPS** button on the WI-FI router and then, press the OK button on the canon printer.
+5. It will automatically connect using the network.
+6. On Mac, click on **ADD PRINTER** and then, locate the printer.
+7. Start the installation and complete it.
